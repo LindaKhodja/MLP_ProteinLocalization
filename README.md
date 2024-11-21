@@ -21,8 +21,9 @@ MLP_ProteinLocalization/
 │ └── mlp_model.ipynb
 │
 ├── results/
-│ ├── confusion_matrix_.png (for each application)
-│ └── class_distribution.png (before and after SMOTE)
+│ ├── cm_unbalanced.png
+│ ├── cm_oversampling.png
+│ └── cm_undersampling.png
 │
 ├── README.md
 └── requirements.txt
